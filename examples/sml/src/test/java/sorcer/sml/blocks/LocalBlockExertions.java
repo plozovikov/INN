@@ -27,6 +27,7 @@ import static sorcer.eo.operator.loop;
 import static sorcer.eo.operator.opt;
 import static sorcer.po.operator.*;
 
+//Hello. I'm Pavlo s14868 and I don't know what's going on here :) 
 /**
  * @author Mike Sobolewski
  */
